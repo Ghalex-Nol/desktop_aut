@@ -1,0 +1,20 @@
+
+choco install cmder -Y 
+
+choco install googlechrome -Y 
+
+
+choco install firefox -Y 
+
+choco install cutePDF -Y 
+
+
+choco install adobereader -Y
+
+choco install anydesk -Y
+
+choco install winrar -Y
+
+
+
+
